@@ -887,7 +887,7 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
   height: 100%;
   width: 100%;
   z-index: 10000;
-  background: rgb(255, 255, 255);
+  background: #FFFFFF;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -895,7 +895,7 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 
 }
 .loader-container img{
-  width: 35rem;
+  width: 55rem;
 }
 .loader-container.fade-out{
   top: 110%;
